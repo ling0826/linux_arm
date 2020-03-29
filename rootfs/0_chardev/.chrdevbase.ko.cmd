@@ -1,0 +1,1 @@
+cmd_/NFS/root/rootfs/0_chardev/chrdevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /NFS/root/rootfs/0_chardev/chrdevbase.ko /NFS/root/rootfs/0_chardev/chrdevbase.o /NFS/root/rootfs/0_chardev/chrdevbase.mod.o

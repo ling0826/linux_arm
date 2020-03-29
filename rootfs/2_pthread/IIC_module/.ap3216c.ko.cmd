@@ -1,0 +1,1 @@
+cmd_/NFS/root/rootfs/2_pthread/IIC_module/ap3216c.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /NFS/root/rootfs/2_pthread/IIC_module/ap3216c.ko /NFS/root/rootfs/2_pthread/IIC_module/ap3216c.o /NFS/root/rootfs/2_pthread/IIC_module/ap3216c.mod.o

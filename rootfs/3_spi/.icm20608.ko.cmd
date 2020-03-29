@@ -1,0 +1,1 @@
+cmd_/NFS/root/rootfs/3_spi/icm20608.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /NFS/root/rootfs/3_spi/icm20608.ko /NFS/root/rootfs/3_spi/icm20608.o /NFS/root/rootfs/3_spi/icm20608.mod.o
